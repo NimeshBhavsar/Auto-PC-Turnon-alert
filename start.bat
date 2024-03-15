@@ -1,2 +1,2 @@
 @echo off
-python SenfMail.py
+python SendMail.py
